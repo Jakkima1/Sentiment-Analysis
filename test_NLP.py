@@ -22,8 +22,4 @@ def main():
     print("The loss and accuracy for test data is: ", loss, accuracy)
 if __name__ == "__main__":
     main()
-	# 1. Load your saved model
-
-	# 2. Load your testing data
-
-	# 3. Run prediction on the test data and print the test accuracy
+	
