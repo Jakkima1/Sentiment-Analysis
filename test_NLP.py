@@ -15,7 +15,7 @@ def main():
     test_target = np.array(test_target)
 
     #Calling the saved trained model
-    saved_model_NLP = load_model("./models/20865621_NLP_model.model")
+    saved_model_NLP = load_model("./models/NLP_model.model")
 
 
     loss, accuracy = saved_model_NLP.evaluate(test_data, test_target)
