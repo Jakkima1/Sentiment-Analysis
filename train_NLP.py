@@ -220,7 +220,7 @@ def main():
     model.fit(X_train, Y_train, batch_size=64, epochs=3, validation_data=(X_val, Y_val))
 
     # Saving the trained model in model folder
-    model.save(r'./models/20865621_NLP_model.model')
+    model.save(r'./models/NLP_model.model')
 
 if __name__ == "__main__":
     main()
