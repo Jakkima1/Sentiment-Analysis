@@ -1,6 +1,4 @@
-# import required packages
-# YOUR IMPLEMENTATION
-# Thoroughly comment your code to make it easy to follow
+
 def main():
     # Importing libraries
     import numpy as np
