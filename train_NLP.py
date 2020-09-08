@@ -224,14 +224,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-
-#if __name__ == "__main__":
-	# 1. load your training data
-
-	# 2. Train your network
-	# 		Make sure to print your training loss and accuracy within training to show progress
-	# 		Make sure you print the final training accuracy
-
-	# 3. Save your model
